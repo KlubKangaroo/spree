@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'ffaker', '~> 2.9'
   s.add_dependency 'friendly_id', '~> 5.2.1'
   s.add_dependency 'highline', '~> 2.0.0' # Necessary for the install generator
-  s.add_dependency 'kaminari', '~> 1.0.1'
+  s.add_dependency 'kaminari', '~> 1.2'
   s.add_dependency 'money', '~> 6.13'
   s.add_dependency 'monetize', '~> 1.9'
   s.add_dependency 'paperclip', '~> 6.1.0'
@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'premailer-rails'
   s.add_dependency 'acts-as-taggable-on', '~> 6.0.0'
   s.add_dependency 'rails', '~> 5.2.4', '>= 5.2.4'
-  s.add_dependency 'ransack', '~> 2.1.1'
+  s.add_dependency 'ransack', '~> 2.2'
   s.add_dependency 'responders'
   s.add_dependency 'state_machines-activerecord', '~> 0.5'
   s.add_dependency 'stringex'
